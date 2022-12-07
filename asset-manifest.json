@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sumitkvnegi/speedState/static/css/main.6753edd5.css",
+    "main.js": "/sumitkvnegi/speedState/static/js/main.f5064a5f.js",
+    "static/js/787.d053ff59.chunk.js": "/sumitkvnegi/speedState/static/js/787.d053ff59.chunk.js",
+    "index.html": "/sumitkvnegi/speedState/index.html",
+    "main.6753edd5.css.map": "/sumitkvnegi/speedState/static/css/main.6753edd5.css.map",
+    "main.f5064a5f.js.map": "/sumitkvnegi/speedState/static/js/main.f5064a5f.js.map",
+    "787.d053ff59.chunk.js.map": "/sumitkvnegi/speedState/static/js/787.d053ff59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6753edd5.css",
+    "static/js/main.f5064a5f.js"
+  ]
+}
