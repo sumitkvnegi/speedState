@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import './App.css'
-import a from '1.png'
-import b from '2.png'
-import c from '3.png'
+import a from '../public/1.png'
+import b from '../public/2.png'
+import c from '../public/3.png'
 
 const App = () => {
   const [distance, setDistance] = useState(1);
