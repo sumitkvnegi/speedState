@@ -1,5 +1,8 @@
 import React, { useState } from 'react'
 import './App.css'
+import a from '1.png'
+import b from '2.png'
+import c from '3.png'
 
 const App = () => {
   const [distance, setDistance] = useState(1);
@@ -44,9 +47,9 @@ const App = () => {
       <div className='container'>
         <div className='parent' style={speed ? {animation: `run infinite ${100/speed}s linear`} : {}} >
 
-          <img width="150px" height="150px" src='1.png' alt='car' />
-          <img style={speed ? spin : {}} src='2.png' alt='wheel1' />
-          <img style={speed ? spin : {}} width="30px" height="30px" src='3.png' alt='wheel2' />
+          <img width="150px" height="150px" src={a} alt='car' />
+          <img style={speed ? spin : {}} src={b} alt='wheel1' />
+          <img style={speed ? spin : {}} width="30px" height="30px" src={c} alt='wheel2' />
         </div>
       </div>
     </div>
